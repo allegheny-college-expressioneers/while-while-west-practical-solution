@@ -5,6 +5,7 @@
 The conversion formulas are:
 
 **Degrees in Fahrenheit = 9/5 * Degrees in Celsius + 32**
+
 **Degrees in Celsius = (Degrees in Fahrenheit - 32) * 5 / 9**
 
 2. Write a Python program to check if a triangle is equilateral, isosceles, or scalene. The program should ask the user for the lengths of all three sides. Remember that:
